@@ -277,7 +277,7 @@ table might help to visualize what we mean by this.
 
 ```
 Decimal Numbers:      0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
-Hexadecimal Numbers:  0, 1, 2, 3, 4, 5, 6, 7, 8, 9,  a,  b,  c,  d,  e,  f, 10
+Hexadecimal Numbers:  0, 1, 2, 3, 4, 5, 6, 7, 8, 9,  a,  b,  c,  d,  e,  f, f0
 ```
 
 Hex colors work by creating Red, Green, Blue (RGB) values. Traditional RGB
